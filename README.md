@@ -29,7 +29,8 @@ https://neetcode.io/roadmap に沿って解いていく
 
 ## Two Pointers
 
-| Problem                                                                                           | Status | Solution                                             |
-|---------------------------------------------------------------------------------------------------|---|------------------------------------------------------|
-| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)                 | ✅ | [code](125-ValidPalindrome/solution.py)              |
-| [Two Sum II Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | ✅ | [code](167-TwoSumII-InputArrayIsSorted/solution.py)               |
+| Problem                                                                                           | Status | Solution                                          |
+|---------------------------------------------------------------------------------------------------|--|---------------------------------------------------|
+| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)                 | ✅ | [code](125-ValidPalindrome/solution.py)           |
+| [Two Sum II Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | ✅ | [code](167-TwoSumII-InputArrayIsSorted/solution.py)            |
+| [3Sum](https://leetcode.com/problems/3sum/) | ❌ | [code](15-3Sum//solution.py)               |
