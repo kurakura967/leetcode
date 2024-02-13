@@ -39,6 +39,7 @@ https://neetcode.io/roadmap に沿って解いていく
 
 ## Sliding Window
 
-| Problem                                                                               | Status | Solution                                        |
-|---------------------------------------------------------------------------------------|--|-------------------------------------------------|
-| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)        | ✅ | [code](121-BestTimetoBuyandSellStock/solution.py)         |
+| Problem                                                                               | Status | Solution                                       |
+|---------------------------------------------------------------------------------------|--|------------------------------------------------|
+| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)        | ✅ | [code](121-BestTimetoBuyandSellStock/solution.py)        |
+| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)        | ❌ | [code](3-LongestSubstringWithoutRepeatingCharacters/solution.py)         |
