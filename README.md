@@ -44,3 +44,10 @@ https://neetcode.io/roadmap に沿って解いていく
 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)        | ✅ | [code](121-BestTimetoBuyandSellStock/solution.py)       |
 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)        | ❌ | [code](3-LongestSubstringWithoutRepeatingCharacters/solution.py)        |
 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)        | ❌ | [code](424-LongestRepeatingCharacterReplacement/solution.py)         |
+
+## Binary Search
+
+| Problem                                                                               | Status | Solution                                     |
+|---------------------------------------------------------------------------------------|--|----------------------------------------------|
+| [Binary Search](https://leetcode.com/problems/binary-search/)        | ✅ | [code](704-BinarySearch/solution.py)       |
+
