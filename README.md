@@ -47,10 +47,11 @@ https://neetcode.io/roadmap に沿って解いていく
 
 ## Binary Search
 
-| Problem                                                                        | Status | Solution                                   |
-|--------------------------------------------------------------------------------|--|--------------------------------------------|
+| Problem                                                                       | Status | Solution                                   |
+|-------------------------------------------------------------------------------|--|--------------------------------------------|
 | [Binary Search](https://leetcode.com/problems/binary-search/) | ✅ | [code](704-BinarySearch/solution.py)     |
-| [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)        | ✅ | [code](74-Searcha2D/solution.py)     |
-| [Find Minimum In Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)       | ❌ | [code](153-FindMinimuminRotatedSortedArray/solution.py)      |
-| [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)        | ❌ | [code](33-SearchinRotatedSortedArray/solution.py)       |
+| [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)       | ✅ | [code](74-Searcha2D/solution.py)     |
+| [Find Minimum In Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)      | ❌ | [code](153-FindMinimuminRotatedSortedArray/solution.py)      |
+| [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)       | ❌ | [code](33-SearchinRotatedSortedArray/solution.py)       |
+| [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/description/)        | ❌ | [code](981-TimeBasedKey-ValueStore/solution.py)       |
 
