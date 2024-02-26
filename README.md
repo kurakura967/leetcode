@@ -55,3 +55,7 @@ https://neetcode.io/roadmap に沿って解いていく
 | [Search In Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)       | ❌ | [code](33-SearchinRotatedSortedArray/solution.py)       |
 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/description/)        | ❌ | [code](981-TimeBasedKey-ValueStore/solution.py)       |
 
+## Linked List
+| Problem                                                          | Status | Solution                                  |
+|------------------------------------------------------------------|--|-------------------------------------------|
+| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | ✅ | [code](206-ReverseLinkedList/solution.py)     |
