@@ -62,3 +62,4 @@ https://neetcode.io/roadmap に沿って解いていく
 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | ✅ | [code](21-MergeTwoSortedLists/solution.py)                  |
 | [Reorder List](https://leetcode.com/problems/reorder-list/description/) | ❌ | [code](143-ReorderList/solution.py)                  |
 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | ✅ | [code](19-RemoveNthNodeFromEndofList/solution.py)                   |
+| [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | ❌ | [code](138-CopyListwithRandomPointer/solution.py)                   |
