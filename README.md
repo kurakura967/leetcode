@@ -56,8 +56,8 @@ https://neetcode.io/roadmap に沿って解いていく
 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/description/)        | ❌ | [code](981-TimeBasedKey-ValueStore/solution.py)       |
 
 ## Linked List
-| Problem                                                | Status | Solution                            |
-|--------------------------------------------------------|--|-------------------------------------|
+| Problem                                               | Status | Solution                            |
+|-------------------------------------------------------|--|-------------------------------------|
 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | ✅ | [code](206-ReverseLinkedList/solution.py) |
 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | ✅ | [code](21-MergeTwoSortedLists/solution.py)                |
 | [Reorder List](https://leetcode.com/problems/reorder-list/description/) | ❌ | [code](143-ReorderList/solution.py)                |
@@ -65,3 +65,4 @@ https://neetcode.io/roadmap に沿って解いていく
 | [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | ❌ | [code](138-CopyListwithRandomPointer/solution.py)                 |
 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | ✅ | [code](2-AddTwoNumbers/solution.py)                   |
 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | ❌ | [code](141-LinkedListCycle/solution.py)                   |
+| [Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | ✅ | [code](287-FindtheDuplicateNumber/solution.py)                   |
