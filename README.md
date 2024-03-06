@@ -66,3 +66,4 @@ https://neetcode.io/roadmap に沿って解いていく
 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | ✅ | [code](2-AddTwoNumbers/solution.py)                   |
 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | ❌ | [code](141-LinkedListCycle/solution.py)                   |
 | [Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | ✅ | [code](287-FindtheDuplicateNumber/solution.py)                   |
+| [LRU Cache](https://leetcode.com/problems/lru-cache/description/) | ❌ | [code](146-LRUCache/solution.py)                   |
