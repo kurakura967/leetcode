@@ -69,3 +69,9 @@ https://neetcode.io/roadmap に沿って解いていく
 | [LRU Cache](https://leetcode.com/problems/lru-cache/description/) | ❌ | [code](146-LRUCache/solution.py)                   |
 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | ❌ | [code](23-MergekSortedLists/solution.py)                   |
 | [Reverse Nodes In K Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | ❌ | [code](25-ReverseNodesink-Group/solution.py)                   |
+
+## Trees
+
+| Problem                                               | Status | Solution                           |
+|-------------------------------------------------------|--|------------------------------------|
+| [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | ❌ | [code](226-InvertBinaryTree/solution.py) |
