@@ -72,6 +72,7 @@ https://neetcode.io/roadmap に沿って解いていく
 
 ## Trees
 
-| Problem                                               | Status | Solution                           |
-|-------------------------------------------------------|--|------------------------------------|
+| Problem                                              | Status | Solution                         |
+|------------------------------------------------------|--|----------------------------------|
 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | ❌ | [code](226-InvertBinaryTree/solution.py) |
+| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | ❌ | [code](104-MaximumDepthofBinaryTree/solution.py) |
