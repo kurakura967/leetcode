@@ -84,6 +84,7 @@ https://neetcode.io/roadmap に沿って解いていく
 
 ## Tries
 
-| Problem                                            | Status | Solution                     |
-|----------------------------------------------------|--|------------------------------|
-| [Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | ❌ | [code](208-ImplementTriePrefixTree/solution.py) |
+| Problem                                                                                                                    | Status | Solution                     |
+|----------------------------------------------------------------------------------------------------------------------------|--|------------------------------|
+| [Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/description/)                        | ❌ | [code](208-ImplementTriePrefixTree/solution.py) |
+| [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) | ❌ | [code](211-DesignAddandSearchWordsDataStructure/solution.py) |
