@@ -92,6 +92,7 @@ https://neetcode.io/roadmap に沿って解いていく
 
 ## Heap/Priority Queue
 
-| Problem                                                                                                                    | Status | Solution                     |
-|----------------------------------------------------------------------------------------------------------------------------|--|------------------------------|
+| Problem                                                                                                                    | Status | Solution                    |
+|----------------------------------------------------------------------------------------------------------------------------|--|-----------------------------|
 | [Kth Largest Element In a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/)                        | ❌ | [code](703-KthLargestElementinaStream/solution.py) |
+| [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/)                        | ✅ | [code](1046-LastStoneWeight/solution.py) |
