@@ -92,9 +92,10 @@ https://neetcode.io/roadmap に沿って解いていく
 
 ## Heap/Priority Queue
 
-| Problem                                                                                                                    | Status | Solution                    |
-|----------------------------------------------------------------------------------------------------------------------------|--|-----------------------------|
+| Problem                                                                                                                    | Status | Solution                                           |
+|----------------------------------------------------------------------------------------------------------------------------|--|----------------------------------------------------|
 | [Kth Largest Element In a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/)                        | ❌ | [code](703-KthLargestElementinaStream/solution.py) |
-| [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/)                        | ✅ | [code](1046-LastStoneWeight/solution.py) |
-| [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)                        | ✅ | [code](973-KClosestPointstoOrigin/solution.py) |
+| [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/)                        | ✅ | [code](1046-LastStoneWeight/solution.py)           |
+| [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)                        | ✅ | [code](973-KClosestPointstoOrigin/solution.py)     |
 | [Kth Largest Element In An Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)                        | ✅ | [code](215-KthLargestElementinanArray/solution.py) |
+| [Task Scheduler](https://leetcode.com/problems/task-scheduler/description/)                        | ❌ | [code](621-TaskScheduler/solution.py)                                          |
