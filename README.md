@@ -118,3 +118,12 @@ https://neetcode.io/roadmap に沿って解いていく
 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)                       | ❌ | [code](53-MaximumSubarray/solution.py) |
 | [Jump Game](https://leetcode.com/problems/jump-game/description/)                       | ❌ | [code](55-JumpGame/solution.py) |
 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)                        | ❌ | [code](45-JumpGameII/solution.py) |
+
+
+## Backtracking
+
+| Problem                                                                                                                  | Status | Solution                                         |
+|--------------------------------------------------------------------------------------------------------------------------|--|--------------------------------------------------|
+| [Subsets](https://leetcode.com/problems/subsets/description/)                       | ❌ | [code](78-Subsets/solution.py) |
+
+
