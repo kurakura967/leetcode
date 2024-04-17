@@ -129,5 +129,6 @@ https://neetcode.io/roadmap に沿って解いていく
 | [Permutations](https://leetcode.com/problems/permutations/description/)                      | ✅ | [code](46-Permutations/solution.py) |
 | [Subsets II](https://leetcode.com/problems/subsets-ii/description/)                       | ❌ | [code](90-SubsetsII/solution.py) |
 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)                       | ❌ | [code](40-CombinationSumII/solution.py) |
+| [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/)                       | ❌ | [code](131-PalindromePartitioning/solution.py) |
 
 
