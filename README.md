@@ -137,3 +137,4 @@ https://neetcode.io/roadmap に沿って解いていく
 | Problem                                                                                                              | Status | Solution                         |
 |----------------------------------------------------------------------------------------------------------------------|--|----------------------------------|
 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                    | ❌ | [code](70-ClimbingStairs/solution.py)   |
+| [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)                    | ❌ | [code](746-MinCostClimbingStairs/solution.py)   |
