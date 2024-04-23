@@ -139,3 +139,10 @@ https://neetcode.io/roadmap に沿って解いていく
 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                   | ❌ | [code](70-ClimbingStairs/solution.py)   |
 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)                   | ❌ | [code](746-MinCostClimbingStairs/solution.py)   |
 | [House Robber](https://leetcode.com/problems/house-robber/)                    | ❌ | [code](198-HouseRobber/solution.py)   |
+
+
+## Bit Manipulation
+
+| Problem                                                                                                            | Status | Solution                        |
+|--------------------------------------------------------------------------------------------------------------------|--|---------------------------------|
+| [Single Number](https://leetcode.com/problems/single-number/)                   | ✅ | [code](136-SingleNumber/solution.py)   |
