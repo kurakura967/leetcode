@@ -143,6 +143,7 @@ https://neetcode.io/roadmap に沿って解いていく
 
 ## Bit Manipulation
 
-| Problem                                                                                                            | Status | Solution                        |
-|--------------------------------------------------------------------------------------------------------------------|--|---------------------------------|
-| [Single Number](https://leetcode.com/problems/single-number/)                   | ✅ | [code](136-SingleNumber/solution.py)   |
+| Problem                                                                                                          | Status | Solution                       |
+|------------------------------------------------------------------------------------------------------------------|--|--------------------------------|
+| [Single Number](https://leetcode.com/problems/single-number/)                 | ✅ | [code](136-SingleNumber/solution.py)  |
+| [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)                   | ❌ | [code](191-Numberof1Bits/solution.py)   |
