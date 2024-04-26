@@ -80,6 +80,7 @@ https://neetcode.io/roadmap に沿って解いていく
 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) | ❌ | [code](110-BalancedBinaryTree/solution.py) |
 | [Same Tree](https://leetcode.com/problems/same-tree/description/) | ✅ | [code](100-SameTree/solution.py) |
 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) | ❌ | [code](572-SubtreeofAnotherTree/solution.py) |
+| [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | ✅ | [code](102-BinaryTreeLevelOrderTraversal/solution.py) |
 
 
 ## Tries
