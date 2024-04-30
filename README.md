@@ -133,7 +133,7 @@ https://neetcode.io/roadmap に沿って解いていく
 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/)                       | ❌ | [code](131-PalindromePartitioning/solution.py) |
 
 
-## Dynamic Programming
+## 1-D Dynamic Programming
 
 | Problem                                                                                                             | Status | Solution                         |
 |---------------------------------------------------------------------------------------------------------------------|--|----------------------------------|
@@ -148,3 +148,9 @@ https://neetcode.io/roadmap に沿って解いていく
 |------------------------------------------------------------------------------------------------------------------|--|--------------------------------|
 | [Single Number](https://leetcode.com/problems/single-number/)                 | ✅ | [code](136-SingleNumber/solution.py)  |
 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)                   | ❌ | [code](191-Numberof1Bits/solution.py)   |
+
+## 2-D Dynamic Programming
+
+| Problem                                                                                                         | Status | Solution                      |
+|-----------------------------------------------------------------------------------------------------------------|--|-------------------------------|
+| [Unique Paths](https://leetcode.com/problems/unique-paths/description/)                 | ❌ | [code](62-UniquePaths/solution.py)  |
