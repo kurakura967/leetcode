@@ -151,6 +151,7 @@ https://neetcode.io/roadmap に沿って解いていく
 
 ## 2-D Dynamic Programming
 
-| Problem                                                                                                         | Status | Solution                      |
-|-----------------------------------------------------------------------------------------------------------------|--|-------------------------------|
-| [Unique Paths](https://leetcode.com/problems/unique-paths/description/)                 | ❌ | [code](62-UniquePaths/solution.py)  |
+| Problem                                                                                                        | Status | Solution                      |
+|----------------------------------------------------------------------------------------------------------------|--|-------------------------------|
+| [Unique Paths](https://leetcode.com/problems/unique-paths/description/)                | ❌ | [code](62-UniquePaths/solution.py)  |
+| [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/)                 | ❌ | [code](1143-LongestCommonSubsequence/solution.py)  |
