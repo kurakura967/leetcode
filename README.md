@@ -82,6 +82,7 @@ https://neetcode.io/roadmap に沿って解いていく
 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) | ❌ | [code](572-SubtreeofAnotherTree/solution.py) |
 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | ✅ | [code](102-BinaryTreeLevelOrderTraversal/solution.py) |
 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | ❌ | [code](98-ValidateBinarySearchTree/solution.py) |
+| [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) | ❌ | [code](199-BinaryTreeRightSideView/solution.py) |
 
 ## Tries
 
