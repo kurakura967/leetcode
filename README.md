@@ -166,6 +166,7 @@ https://neetcode.io/roadmap に沿って解いていく
 
 ## Graphs
 
-| Problem                                                                                                       | Status | Solution                     |
-|---------------------------------------------------------------------------------------------------------------|--|------------------------------|
-| [Number of Islands](https://leetcode.com/problems/number-of-islands/description/)                | ❌ | [code](200-NumberofIslands/solution.py)  |
+| Problem                                                                                                      | Status | Solution                    |
+|--------------------------------------------------------------------------------------------------------------|--|-----------------------------|
+| [Number of Islands](https://leetcode.com/problems/number-of-islands/description/)               | ❌ | [code](200-NumberofIslands/solution.py) |
+| [Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)                | ❌ | [code](695-MaxAreaofIsland/solution.py)  |
